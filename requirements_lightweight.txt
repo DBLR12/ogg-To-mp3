@@ -1,0 +1,15 @@
+# 轻量级OGG转MP3工具依赖（无需FFmpeg）
+# 适合国内用户快速安装
+
+# GUI框架
+customtkinter==5.2.2
+tkinterdnd2==0.3.0
+
+# 音频处理（纯Python，无外部依赖）
+librosa>=0.10.0
+soundfile>=0.12.0
+numpy>=1.21.0
+
+# 可选：如果需要更好的音频处理
+# scipy>=1.7.0
+# resampy>=0.4.0
