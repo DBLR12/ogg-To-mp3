@@ -246,14 +246,6 @@ ogg转mp3/
 └── README.md                   # 项目说明文档
 ```
 
-## 🚀 高级使用
-
-### 命令行参数（开发中）
-```bash
-# 未来版本将支持命令行模式
-python ogg_to_mp3_converter.py --input /path/to/ogg --output /path/to/output
-```
-
 ### 批处理脚本示例
 ```batch
 @echo off
@@ -273,4 +265,5 @@ pause
 - [librosa](https://librosa.org/) - 专业音频处理库
 - [soundfile](https://github.com/bastibe/python-soundfile) - 音频文件I/O
 - [pydub](https://github.com/jiaaro/pydub) - 简单音频处理
+
 - [tkinterdnd2](https://github.com/pmgagne/tkinterdnd2) - 拖拽支持
